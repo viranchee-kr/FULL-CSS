@@ -1,0 +1,40 @@
+.one{
+background-color: aliceblue;
+width: 10%;
+height: 10vh;
+text-align: center;
+word-spacing: 2px;
+letter-spacing: 2px;
+border-width: 5px;
+border-color: blue;
+border-style:solid;
+border-radius: 100%;
+}
+
+ a:link {
+     color:"red"
+ }
+
+ a:visited {
+    color:"yellow"
+}
+
+a:hover{
+    color: #000;
+}
+ a:active{
+     color: blue;
+ }
+ ul {
+     list-style-type: circle;
+     ;
+ }
+ .boxmodel{
+     width: 400px;
+     height: 400px;
+     background-color: red;
+    
+ }
+ label{
+padding-left: 1000px;
+ }
