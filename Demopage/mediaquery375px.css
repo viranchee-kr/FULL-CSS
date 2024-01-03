@@ -1,0 +1,71 @@
+@media (max-width: 375px) {
+    * {
+        margin: 0%;
+        padding: 0%;
+    }
+
+    .headerdiv3 {
+        margin-top: 0%;
+        line-height: 171%;
+        font-size: 38%;
+        font-family: serif;
+        width: 84%;
+        margin-left: -32%;
+    }
+    .paragraphtwo img {
+        height: 23vh;
+        width: 100%;
+    }
+    .paragraph {
+        margin-top: 12%;
+        font-family: monospace;
+        line-height: 156%;
+        font-size: 80%;
+    }
+    .navbar {
+        margin-top: 4%;
+        height: 22vh;
+        width: 100%;
+        background-color: black;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        color: white;
+        overflow: hidden;
+        font-size: 56%;
+    }
+    .shopbutton4 {
+        height: 6vh;
+        width: 57%;
+        color: orangered;
+        font-weight: bold;
+        margin-top: 10%;
+    }
+    .imgone .menimage {
+        height: 100%;
+        width: 128%;
+        margin-top: 15%;
+    }
+    .manwatchshopnow {
+        width: 26vw;
+        height: 7vh;
+        background-color: orangered;
+        border: 1px solid orangered;
+        color: white;
+        font-size: 105%;
+        margin-top: 10%;
+    }
+    .newcard {
+        display: flex;
+        gap: 2rem;
+        flex-wrap: wrap;
+        width: 110%;
+    }
+    .customer-reviews-main {
+        display: flex;
+        gap: 1rem;
+        flex-direction: column;
+        margin-top: 6%;
+        height: 119vh;
+    }
+}

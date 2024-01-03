@@ -1,0 +1,368 @@
+@media (max-width: 425px) {
+    * {
+        margin: 0%;
+        padding: 0%;
+    }
+
+    .main {
+        background-color: antiquewhite;
+        height: 100%;
+        width: 100vw;
+    }
+
+    .container {
+        display: none;
+    }
+
+    .paragraph {
+        margin-top: 12%;
+        font-family: monospace;
+        line-height: 156%;
+        font-size: 107%;
+    }
+
+    .headerdiv1 {
+        font-size: 58%;
+        font-family: sans-serif;
+        height: 10vh;
+        width: 80%;
+        margin-top: 3%;
+        line-height: 176%;
+    }
+
+    .navbar {
+        margin-top: 4%;
+        height: 22vh;
+        width: 100%;
+        background-color: black;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        color: white;
+        overflow: hidden;
+        font-size: 65%;
+    }
+
+    .fleximagediv1 {
+        line-height: 4rem;
+    }
+
+    .childh h1 {
+        font-size: 113%;
+    }
+
+    .imgone .menimage {
+        height: 100%;
+        width: 128%;
+        margin-top: 10%;
+    }
+
+    .child2 {
+        margin-top: 20%;
+        line-height: 200%;
+    }
+
+    .child4 {
+        line-height: 2em;
+        margin-top: 10%;
+    }
+
+    .shopbutton4 {
+        height: 6vh;
+        width: 47%;
+        color: orangered;
+        font-weight: bold;
+        margin-top: 10%;
+    }
+
+    .cardone {
+        color: white;
+        background-color: orangered;
+        height: 34vh;
+        width: 100%;
+        overflow: hidden;
+        margin-bottom: 10%;
+    }
+
+    .topsellermain {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 2%;
+        gap: 5px;
+        flex-wrap: wrap;
+    }
+
+    .mainstar {
+        display: none;
+    }
+
+    .style1 {
+        background-color: brown;
+        height: 30vh;
+        width: 45%
+    }
+
+    .style2 {
+        background-color: brown;
+        height: 30vh;
+        width: 45%
+    }
+
+    .style3 {
+        background-color: brown;
+        height: 30vh;
+        width: 45%
+    }
+
+    .style4 {
+        background-color: brown;
+        height: 30vh;
+        width: 45%
+    }
+
+    .newcard {
+        display: flex;
+        gap: 2rem;
+        flex-wrap: wrap;
+    }
+
+    .btn {
+        width: 30%;
+        height: 8vh;
+        background-color: chocolate;
+        color: white;
+        border: 1px solid chocolate;
+    }
+
+    .Wintersale {
+        height: 100vh;
+        width: 100%;
+        background-color: firebrick;
+        margin-top: 5%;
+        color: white;
+        font-family: sans-serif;
+        overflow: hidden;
+        font-size: 74%;
+        margin-bottom: 10%;
+    }
+
+    .winterflexmain {
+        display: flex;
+        justify-content: right;
+        align-items: center;
+        flex-direction: column;
+        font-size: 190%;
+        line-height: 2em;
+    }
+
+    .winterflexdiv1 {
+        font-size: 59%;
+        line-height: 3rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .winterpara {
+        line-height: 15px;
+    }
+
+    .winterbutton {
+        width: 100%;
+        height: 7vh;
+        font-weight: bold;
+        font-size: 120%;
+        margin-bottom: 2%;
+    }
+    .winterimage img {
+        height: 56vh;
+        width: 100vw;
+        margin-top: 6%;
+    }
+
+    .viewall {
+        height: 8vh;
+        width: 38%;
+        font-size: 130%;
+        font-weight: bold;
+        background-color: orangered;
+        color: white;
+        border: 1px solid orangered;
+    }
+
+    .customerreviewsdiv1 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: flex-start;
+        background-color: white;
+        height: 119vh;
+        width: 100%;
+        font-family: sans-serif;
+        text-align: center;
+        flex-wrap: wrap;
+    }
+
+    .manwatchshopnow {
+        width: 25vw;
+        height: 7vh;
+        background-color: orangered;
+        border: 1px solid orangered;
+        color: white;
+        font-size: 105%;
+        margin-top: 10%;
+    }
+
+    .manwatchdiv1 {
+        margin-top: 5%;
+    }
+
+    .manwatchmain {
+        display: flex;
+        flex-direction: column;
+        background-image: url(watch1.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-color: rgb(134, 45, 45);
+        width: 100%;
+        height: 37vh;
+        overflow: hidden;
+        align-items: center;
+        color: white;
+        margin-bottom: 5%;
+    }
+
+    .gallery {
+        text-align: center;
+        margin-top: 10%;
+    }
+
+    .gallerymain {
+        display: flex;
+        gap: 5px;
+        margin-top: 10%;
+    }
+
+    .gallerymain {
+        display: flex;
+        gap: 5px;
+        margin-top: 10%;
+        flex-direction: column;
+    }
+
+    .gallerydiv1 {
+        height: 100vh;
+        width: 100%;
+    }
+
+    .gallerydiv1 img {
+        height: 49vh;
+        width: 100%;
+    }
+
+    .gallerydiv2 img {
+        height: 71vh;
+        width: 303%;
+    }
+
+    .gallerydiv3 {
+        height: 80vh;
+        width: 100%;
+    }
+
+    .subscribemain {
+        display: flex;
+        FLEX-DIRECTION: column;
+        justify-content: space-evenly;
+        background-color: chocolate;
+        height: 95vh;
+        width: 100%;
+        align-items: center;
+        overflow: hidden;
+        margin-top: 0%;
+        font-size: 62%;
+    }
+
+    .subscribediv3child1 input {
+        height: 7vh;
+        width: 59vw;
+        border-radius: 10px;
+        border: 1px solid white;
+        margin-top: 5%;
+    }
+
+    .subscribebutton {
+        height: 6vh;
+        width: 20vw;
+        background-color: black;
+        color: white;
+        font-size: 100%;
+        border-radius: 30px;
+        font-family: sans-serif;
+        border: 1px;
+        margin-left: -28%;
+        margin-top: 6%;
+    }
+
+    .subscribeimagediv img {
+        height: 65vh;
+        width: 100vw;
+    }
+
+    .tablemain {
+        display: flex;
+        justify-content: space-evenly;
+        margin-top: 2%;
+        width: 100%;
+        height: 23vh;
+        font-family: system-ui;
+        font-size: 88%;
+    }
+
+    .tableimage img {
+        height: 4vh;
+        width: 7vw;
+    }
+
+    .footermain {
+        display: flex;
+        justify-content: center;
+        background-color: black;
+        color: white;
+        width: 100%;
+        height: 8vh;
+        text-align: center;
+        font-size: 70%;
+        font-family: system-ui;
+        border: 1px;
+        border-radius: 10px;
+        margin-top: 5%;
+    }
+
+    .footerp {
+        display: flex;
+        align-items: center;
+    }
+    .subscribediv1 {
+        font-size: 200%;
+        color: white;
+        font-family: ui-monospace;
+        font-weight: bold;
+        line-height: 2rem;
+        margin-top: 15%;
+    }
+    .headerdiv3 {
+        margin-top: 0%;
+        line-height: 171%;
+        font-size: 43%;
+        font-family: serif;
+        width: 84%;
+        margin-left: -32%;
+    }
+    .customer-reviews-main {
+        display: flex;
+        gap: 1rem;
+        flex-direction: column;
+        margin-top: 6%;
+        height: 113vh;
+    }
+}

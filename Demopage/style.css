@@ -1,0 +1,643 @@
+html {
+  padding: 0px;
+  margin: 0px;
+}
+.main {
+  background-color: antiquewhite;
+  height: 100%;
+  width: 100%;
+}
+
+.main img {
+  height: 7vh;
+  width: 7vw;
+}
+
+.maindiv {
+  margin-left: 12%;
+  margin-right: 10%;
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  margin-left: 10%;
+  margin-right: 10%;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 2%;
+}
+
+.container a {
+  text-decoration: none;
+  margin-top: 2%;
+}
+
+.icon {
+  background-color: orangered;
+  color: white;
+  padding: 3%;
+  margin: -15%;
+  padding-top: 1%;
+}
+
+.container input {
+  margin-top: 9%;
+  padding: 1%;
+}
+
+.user-icon {
+  margin-top: 1%;
+  background-color: orangered;
+  color: white;
+  height: 2vh;
+  padding: 1%;
+}
+
+.headerh1 {
+  line-height: 100%;
+}
+
+.paragraph {
+  margin-top: 25%;
+  font-family: monospace;
+  line-height: 25%;
+}
+
+.headerdiv1 {
+  line-height: 65%;
+  font-family: sans-serif;
+}
+
+.buttonone {
+  margin-top: 10%;
+  background-color: orangered;
+  color: white;
+  border: 1px solid orangered;
+  border-radius: 5px;
+  width: 8vw;
+  height: 5vh;
+}
+
+.maindiv {
+  display: flex;
+  font-family: monospace;
+}
+
+.paragraphtwo img {
+  height: 40vh;
+  width: 100%;
+}
+
+.paragraphtwo {
+  display: flex;
+}
+
+.navbar {
+  margin-top: 4%;
+  height: 22vh;
+  width: 100%;
+  background-color: black;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+  overflow: hidden;
+}
+
+.content1 {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.maincard {
+  display: flex;
+  gap: 1rem;
+}
+
+.cardone {
+  color: white;
+  background-color: orangered;
+  height: 30vh;
+  width: 50%;
+  overflow: hidden;
+}
+
+.cardtwo {
+  color: white;
+  background-color: rgb(37, 35, 35);
+  height: 30vh;
+  width: 50%;
+  overflow: hidden;
+}
+
+.childcard {
+  margin-left: 4%;
+}
+
+.childh {
+  line-height: 100%;
+}
+
+.child2 {
+  margin-top: 20%;
+  line-height: 100%;
+}
+
+.child4 {
+  line-height: 100%;
+  margin-top: 10%;
+}
+
+.childcard2 {
+  display: flex;
+  flex-direction: column;
+  margin-left: 4%;
+}
+
+.childcard4 {
+  display: flex;
+  flex-direction: column;
+  margin-left: 4%;
+}
+
+.shopbutton {
+  height: 6vh;
+  color: orangered;
+  font-weight: bold;
+}
+
+.shopbutton2 {
+  height: 6vh;
+  width: 65%;
+  font-weight: bold;
+  margin-top: 10%;
+  background-color: orangered;
+  color: white;
+  border: 1px solid orangered;
+}
+
+.shopbutton4 {
+  height: 6vh;
+  width: 40%;
+  color: orangered;
+  font-weight: bold;
+  margin-top: 10%;
+}
+
+.mainflexdiv1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.imgone .menimage {
+  height: 100%;
+  width: 122%;
+  margin-top: 10%;
+}
+
+.imgtwo .menimagetwo {
+  height: 100%;
+  width: 122%;
+}
+
+.imgthree .menimagethree {
+  height: 64%;
+  width: 100%;
+  margin-top: 10%;
+}
+
+.con1 {
+  display: flex;
+}
+
+.para1 {
+  display: flex;
+  flex-direction: column;
+}
+
+.headerdiv3 {
+  margin-top: 6%;
+  line-height: 100%;
+  font-size: 50%;
+  font-family: serif;
+  width: 100%;
+}
+
+.headerdiv3 img {
+  height: 10vh;
+  margin-top: 20%;
+  width: 100%;
+}
+
+.navbar img {
+  width: 24vh;
+  height: 100%;
+}
+
+.cardone {
+  display: flex;
+  margin-top: 2%;
+}
+
+.cardtwo {
+  display: flex;
+  margin-top: 2%;
+}
+
+.cardtwo img {
+  width: 50vh;
+  height: 100%;
+}
+
+.newcard {
+  display: flex;
+  gap: 1rem;
+}
+
+.style1 {
+  background-color: brown;
+  height: 50vh;
+  width: 25%;
+}
+
+.winter-button-one {
+  background-color: orangered;
+  height: 1vh;
+  width: 100%;
+  border: 1px solid orangered;
+  color: white;
+  margin: 10%;
+}
+
+.style1image img {
+  height: 50vh;
+  width: 100%;
+}
+
+.winterpara1 {
+  display: flex;
+  gap: 1em;
+  margin-top: 10%;
+}
+
+.winterpara1 img {
+  width: 100%;
+  height: 4vh;
+}
+
+.wool {
+  margin-top: 10%;
+  font-weight: bold;
+}
+
+.cost {
+  margin-top: 10%;
+}
+
+.style2 {
+  background-color: brown;
+  height: 50vh;
+  width: 25%;
+}
+
+.style3 {
+  background-color: brown;
+  height: 50vh;
+  width: 25%;
+}
+
+.style4 {
+  background-color: brown;
+  height: 50vh;
+  width: 25%;
+}
+
+.winterparawrap {
+  display: flex;
+  flex-direction: column;
+}
+
+.mainstar {
+  display: flex;
+  justify-content: space-around;
+}
+
+.buttontwo {
+  display: flex;
+  justify-content: center;
+  margin-top: 3%;
+}
+
+.btn {
+  width: 10%;
+  height: 8vh;
+  background-color: chocolate;
+  color: white;
+  border: 1px solid chocolate;
+}
+
+.Wintersale {
+  height: 53vh;
+  width: 100%;
+  background-color: firebrick;
+  margin-top: 5%;
+  color: white;
+  font-family: sans-serif;
+  overflow: hidden;
+}
+
+.wintersalediv3 {
+  line-height: 30%;
+}
+
+.winterbutton {
+  width: 27%;
+  height: 7vh;
+  font-weight: bold;
+  font-size: 120%;
+  margin-bottom: 2%
+}
+
+.winterflexmain {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.winterimage img {
+  height: 50vh;
+  width: 25vw;
+  margin-top: 6%;
+}
+
+.topsellermain {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2%;
+}
+
+.topsellerimage1 img {
+  height: 50vh;
+  width: 100%;
+}
+
+.topsellerbutton {
+  display: flex;
+  justify-content: center;
+  margin-top: 2%;
+  padding-bottom: 2%;  
+}
+
+.viewall {
+  height: 8vh;
+  width: 11%;
+  font-size: 130%;
+  font-weight: bold;
+  background-color: orangered;
+  color: white;
+  border: 1px solid orangered;
+}
+
+.sunglassmanwatch {
+  display: flex;
+}
+
+.trendingmain {
+  display: flex;
+  justify-content: right;
+  align-items: center;
+  background-color: rgb(217, 140, 140);
+  width: 33%;
+  height: 37vh;
+  overflow: hidden;
+}
+
+.trendingmainflex {
+  display: flex;
+}
+
+.trendingimage1 img {
+  height: 38vh;
+  width: 12vw;
+}
+
+.trendingbutton {
+  background-color: orangered;
+  color: white;
+  height: 7vh;
+  border: 1px solid orangered;
+  font-size: 120%;
+}
+
+.blackfridaysalemain {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: orangered;
+  width: 33%;
+  height: 37vh;
+  overflow: hidden;
+  color: white;
+  font-family: sans-serif;
+}
+
+.spanblackfriday {
+  font-size: 190%;
+}
+
+.blackfridaybutton {
+  background-color: orangered;
+  font-size: 160%;
+  color: white;
+  border: 1px solid orangered;
+  border-bottom: 1px solid orange;
+}
+
+.manwatchmain {
+  display: flex;
+  flex-direction: column;
+  background-image: url("watch1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgb(134, 45, 45);
+  width: 33%;
+  height: 37vh;
+  overflow: hidden;
+  align-items: center;
+  color: white;
+}
+
+.manwatchshopnow {
+    width: 9vw;
+    height: 7vh;
+    background-color: orangered;
+    border: 1px solid orangered;
+    color: white;
+    font-size: 105%;
+    margin-top: -10%;
+}
+
+.customer-reviews-main {
+  display: flex;
+  gap: 1rem;
+  margin-top: 2%;
+}
+
+.customerreviewsdiv1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  background-color: white;
+  height: 55vh;
+  width: 100%;
+  font-family: sans-serif;
+  text-align: center;
+  flex-wrap: wrap;
+}
+
+.reviewimageone img {
+  /* margin-top: 20px; */
+  border-radius: 50%;
+  height: 5vh;
+  width: 67%;
+  margin-left: 5%;
+}
+
+.gallery {
+  text-align: center;
+}
+
+.gallerymain {
+  display: flex;
+  gap: 5px;
+}
+
+.gallerydiv1 {
+  height: 80vh;
+  width: 33%;
+}
+
+.gallerydiv2 {
+  height: 80vh;
+  width: 33%;
+}
+
+.gallerydiv3 {
+  height: 80vh;
+  width: 33%;
+}
+
+.gallerydiv1 img {
+  height: 50vh;
+  width: 100%;
+}
+
+.gallerydiv2 img {
+  height: 80vh;
+  width: 100%;
+}
+
+.gallerydiv3 img {
+  height: 50vh;
+  width: 100%;
+}
+
+.gallerychildflexmain {
+  display: flex;
+  gap: 5px;
+}
+
+.gallerychilddiv1 img {
+  height: 29vh;
+  width: 100%;
+}
+
+.gallerychilddiv3 img {
+  height: 29vh;
+  width: 100%;
+}
+
+.subscribemain {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: chocolate;
+  height: 60vh;
+  width: 100%;
+  align-items: center;
+  overflow: hidden;
+  margin-top: 4%;
+}
+
+.subscribediv1 {
+  font-size: 200%;
+  color: white;
+  font-family: ui-monospace;
+  font-weight: bold;
+  line-height: 0rem;
+}
+.subscribediv2 {
+  color: white;
+  line-height: 10px;
+}
+
+.subscribediv3child1 input {
+  height: 7vh;
+  width: 40vw;
+  border-radius: 10px;
+  border: 1px solid white;
+}
+
+.subscribebutton {
+  height: 6vh;
+  width: 10vw;
+  background-color: black;
+  color: white;
+  font-size: 100%;
+  border-radius: 30px;
+  font-family: sans-serif;
+  border: 1px;
+  margin-left: -22%;
+  margin-top: 4px;
+}
+
+.subscribediv3child1 {
+  display: flex;
+}
+
+.subscribeimagediv img {
+  height: 61vh;
+  width: 39vw;
+}
+
+.tablemain {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 2%;
+  width: 100%;
+  height: 40vh;
+  font-family: system-ui;
+  font-size: 130%;
+}
+
+.tablep1 {
+  font-weight: bold;
+}
+
+.footermain {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  color: white;
+  width: 100%;
+  height: 8vh;
+  text-align: center;
+  font-size: 100%;
+  font-family: system-ui;
+  border: 1px;
+  border-radius: 10px;
+}

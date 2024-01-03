@@ -1,0 +1,317 @@
+@media (max-width: 768px) {
+
+    .main {
+        background-color: antiquewhite;
+        height: 100%;
+        width: 100vw;
+    }
+
+    .container {
+        margin-left: 11%;
+        margin-right: 10%;
+        display: flex;
+        justify-content: space-evenly;
+        padding-top: 2%;
+    }
+
+    .container input {
+        margin-top: 5%;
+        padding: 1%;
+    }
+
+    .user-icon {
+        margin-top: 9px;
+        background-color: orangered;
+        color: white;
+        height: 2vh;
+        padding: 1%;
+    }
+
+    .headerdiv1 {
+        font-size: 75%;
+        font-family: sans-serif;
+        height: 50vh;
+        width: 80%;
+        margin-top: 3%;
+    }
+
+    .headerdiv3 {
+        margin-top: 0%;
+        line-height: 171%;
+        font-size: 46%;
+        font-family: serif;
+        width: 87%;
+        margin-left: -10%;
+    }
+
+    .paragraph {
+        margin-top: 12%;
+        font-family: monospace;
+        line-height: 30%;
+        font-size: 130%;
+    }
+
+    .con1 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .buttonone {
+        margin-top: 10%;
+        background-color: orangered;
+        color: white;
+        border: 1px solid orangered;
+        border-radius: 5px;
+        width: 22vw;
+        height: 7vh;
+    }
+
+    .navbar {
+        margin-top: 4%;
+        height: 22vh;
+        width: 100%;
+        background-color: black;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        color: white;
+        overflow: hidden;
+        font-size: 79%;
+    }
+
+    .content1 {
+        display: flex;
+        gap: 6px;
+        align-items: center;
+    }
+
+    .maincard {
+        display: flex;
+        gap: 1rem;
+        flex-direction: column;
+    }
+
+    .cardone {
+        color: white;
+        background-color: orangered;
+        height: 34vh;
+        width: 100%;
+        overflow: hidden;
+    }
+
+    .cardtwo {
+        color: white;
+        background-color: rgb(37, 35, 35);
+        height: 34vh;
+        width: 100%;
+        overflow: hidden;
+    }
+
+    .winterpara1 {
+        display: flex;
+        gap: 1em;
+        margin-top: 10%;
+        width: 11%;
+    }
+
+    .btn {
+        width: 17%;
+        height: 8vh;
+        background-color: chocolate;
+        color: white;
+        border: 1px solid chocolate;
+    }
+
+    .Wintersale {
+        height: 53vh;
+        width: 100%;
+        background-color: firebrick;
+        margin-top: 5%;
+        color: white;
+        font-family: sans-serif;
+        overflow: hidden;
+        font-size: 74%;
+    }
+
+    .winterflexmain {
+        display: flex;
+        justify-content: right;
+        align-items: center;
+    }
+
+    .winterimage img {
+        height: 51vh;
+        width: 32vw;
+        margin-top: 6%;
+    }
+
+    .topsellermain {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 2%;
+        gap: 5px;
+    }
+
+    .viewall {
+        height: 8vh;
+        width: 20%;
+        font-size: 130%;
+        font-weight: bold;
+        background-color: orangered;
+        color: white;
+        border: 1px solid orangered;
+    }
+
+    .sunglassmanwatch {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .trendingmain {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        background-color: rgb(217, 140, 140);
+        width: 100%;
+        height: 37vh;
+        overflow: hidden;
+        font-size: 100%;
+    }
+
+    .trendingimage1 img {
+        height: 38vh;
+        width: 30vw;
+    }
+
+    .blackfridaysalemain {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-color: orangered;
+        width: 100%;
+        height: 37vh;
+        overflow: hidden;
+        color: white;
+        font-family: sans-serif;
+    }
+
+    .manwatchmain {
+        display: flex;
+        flex-direction: column;
+        background-image: url(watch1.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-color: rgb(134, 45, 45);
+        width: 100%;
+        height: 37vh;
+        overflow: hidden;
+        align-items: center;
+        color: white;
+    }
+
+    .style1 {
+        background-color: brown;
+        height: 30vh;
+        width: 25%;
+    }
+
+    .style2 {
+        background-color: brown;
+        height: 30vh;
+        width: 25%;
+    }
+
+    .style3 {
+        background-color: brown;
+        height: 30vh;
+        width: 25%;
+    }
+
+    .style4 {
+        background-color: brown;
+        height: 30vh;
+        width: 25%;
+    }
+
+    .style1image img {
+        height: 30vh;
+        width: 100%;
+    }
+
+    .topsellerimage1 img {
+        height: 34vh;
+        width: 100%;
+    }
+
+    .customerreviewsdiv1 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: flex-start;
+        background-color: white;
+        height: 60vh;
+        width: 100%;
+        font-family: sans-serif;
+        text-align: center;
+        flex-wrap: wrap;
+    }
+
+    .gallerydiv1 img {
+        height: 35vh;
+        width: 100%;
+    }
+
+    .gallerydiv2 img {
+        height: 71vh;
+        width: 100%;
+    }
+
+    .gallerydiv3 img {
+        height: 35vh;
+        width: 100%;
+    }
+
+    .subscribemain {
+        display: flex;
+        justify-content: space-evenly;
+        background-color: chocolate;
+        height: 60vh;
+        width: 100%;
+        align-items: center;
+        overflow: hidden;
+        margin-top: 0%;
+        font-size: 67%;
+    }
+
+    .footermain {
+        display: flex;
+        justify-content: center;
+        background-color: black;
+        color: white;
+        width: 100%;
+        height: 8vh;
+        text-align: center;
+        font-size: 100%;
+        font-family: system-ui;
+        border: 1px;
+        border-radius: 10px;
+        margin-top: 5%;
+    }
+    .subscribediv1 {
+        font-size: 200%;
+        color: white;
+        font-family: ui-monospace;
+        font-weight: bold;
+        line-height: 0rem;
+    }
+    .manwatchshopnow {
+        width: 14vw;
+        height: 7vh;
+        background-color: orangered;
+        border: 1px solid orangered;
+        color: white;
+        font-size: 105%;
+        margin-top: -10%;
+    }
+}
